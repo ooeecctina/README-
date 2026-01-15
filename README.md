@@ -5,6 +5,9 @@
 ```
 強制換行----> <br>
 如何放連結,<https://github.com/othree/markdown-syntax-zhtw>,在連結前後加上<>
-如何放照片(前提:已經將照片放入repository裡,# 這是我的專案
+如何放照片(前提:已經將照片放入repository裡<br>
+--->更換該句的連結即可
 
-[![我的 Logo](https://raw.githubusercontent.com/myusername/myproject/main/images/logo.png)](https://www.example.com)
+[![照片名稱,用來提醒自己用](https://github.com/ooeecctina/README-/blob/main/images.jpg)
+如何製作分隔線，打***
+***
